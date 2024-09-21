@@ -1,4 +1,4 @@
-# $${\color{#f2470c}FireBoy \space \color{black}And \space \color{#0cb7f2}WaterGirl}$$ 
+# $${\color{#f2470c}FireBoy \space \color{white}And \space \color{#0cb7f2}WaterGirl}$$ 
 ![Fireboy and Watergirl](https://i.imgur.com/ICPb3C6.jpg)
 
 # Una historia de héroes elementales:
